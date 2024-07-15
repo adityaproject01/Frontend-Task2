@@ -1,0 +1,13 @@
+body{
+    background: #B85042;
+    height: 500px;
+}
+
+
+    #profile{
+        width: 100px;
+        height: 100px;
+padding: 0;
+    border-radius: 100px;
+    box-shadow: 0 0 5px 5px rgb(105, 105, 76);
+}
